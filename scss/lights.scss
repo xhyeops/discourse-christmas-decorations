@@ -89,7 +89,7 @@
     }
   }
   @keyframes flash-1 {
-      0%, 100% { background: rgba(149,208,65,1);
+      0%, 100% { background: rgb(255,0,0);
       box-shadow: 0px $globe-height/6 $globe-width*2 $globe-spread rgba(149,208,65,1);}
       50% { background: rgba(17,104,205,$light-off-opacity);
       box-shadow: 0px $globe-height/6 $globe-width*2 $globe-spread rgba(17,104,205,0.2);}
